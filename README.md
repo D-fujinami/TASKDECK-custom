@@ -1,4 +1,4 @@
-# TASKDECK
+# TASKDECK-custom
 
 TASKDECK を個人的な用途に合わせてカスタマイズ・機能追加しているリポジトリです。
 
